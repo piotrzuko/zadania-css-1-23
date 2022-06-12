@@ -1,0 +1,27 @@
+#pogrubienie {
+    font-size: 35px;
+    color: #8e5ece;
+}
+#pochylona  {
+    font-size: 30pt;
+    color: #f7c26a;
+}
+#index_gorny {
+    font-size: 1.5cm;
+    color: #3ef4e2;
+}
+#index_dolny {
+    font-size: 2.5cm;
+    color: #381cd6;
+}
+#mono {
+    font-size: 45px;
+    color: #22e06a;
+}
+#powiekszenie {
+    color: #5c409c;
+}
+#pomniejszenie {
+    color: hsl(48, 55%, 49%);
+}
+/*<!-- PIotr Zukwoski 30.05.2022 -->
