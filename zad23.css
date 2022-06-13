@@ -1,6 +1,6 @@
 #pogrubienie {
     font-size: 35px;
-    color: #8e5ece;
+    color: #8e7ece;
 }
 #pochylona  {
     font-size: 30pt;
@@ -8,20 +8,20 @@
 }
 #index_gorny {
     font-size: 1.5cm;
-    color: #3ef4e2;
+    color: #2ef5e2;
 }
 #index_dolny {
     font-size: 2.5cm;
-    color: #381cd6;
+    color: #485cd6;
 }
 #mono {
     font-size: 45px;
     color: #22e06a;
 }
 #powiekszenie {
-    color: #5c409c;
+    color: #5c407c;
 }
 #pomniejszenie {
-    color: hsl(48, 55%, 49%);
+    color: hsl(48, 50%, 58%);
 }
 /*<!-- PIotr Zukwoski 30.05.2022 -->
